@@ -1,9 +1,9 @@
 {
-.appVersion = "930";
+.appVersion = "939";
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy Pedescender-cy Esdescender-cy Ustrait-cy Ustraitstroke-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pedescender-cy Esdescender-cy Ustrait-cy Ustraitstroke-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Palochka-cy Zhebreve-cy Chekhakassian-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Zhedieresis-cy Zedieresis-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Qa-cy We-cy";
 name = Uppercase;
 },
 {
@@ -59,7 +59,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-09-09 10:13:44 +0000";
+date = "2017-01-04 09:18:23 +0000";
 designer = "Hubert and Fischer with Elvire Volk Leonovitch (Cyrillic Expansion: Cyreal)";
 designerURL = "http://www.hubertfischer.com";
 familyName = "Rubik Mono One";
@@ -91,13 +91,13 @@ name = liga;
 },
 {
 automatic = 1;
-code = "feature locl;
+code = "feature ccmp;
+feature locl;
 feature subs;
 feature sups;
 feature frac;
 feature ordn;
 feature case;
-feature ccmp;
 ";
 name = aalt;
 },
@@ -260,13 +260,6 @@ sub commaaccentcomb by commaaccentcomb.case;
 sub brevecomb-cy by brevecomb-cy.case;
 ";
 name = case;
-},
-{
-automatic = 1;
-code = "sub En-cy Ge-cy by Enghe-cy;
-sub en-cy ge-cy by enghe-cy;
-";
-name = dlig;
 }
 );
 fontMaster = (
@@ -7785,6 +7778,95 @@ width = 850;
 }
 );
 unicode = 0218;
+},
+{
+color = 4;
+glyphname = Germandbls;
+layers = (
+{
+background = {
+components = (
+{
+name = Z;
+}
+);
+};
+guideLines = (
+{
+angle = 57.0948;
+position = "{456, 499}";
+},
+{
+angle = 57.0948;
+position = "{653, 499}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"332 0 LINE SMOOTH",
+"347 0 OFFCURVE",
+"359 12 OFFCURVE",
+"359 27 CURVE",
+"359 433 LINE SMOOTH",
+"359 492 OFFCURVE",
+"384 515 OFFCURVE",
+"429 515 CURVE SMOOTH",
+"467 515 OFFCURVE",
+"486 485 OFFCURVE",
+"486 450 CURVE",
+"516 592 LINE",
+"395 405 LINE SMOOTH",
+"391 398 OFFCURVE",
+"389 393 OFFCURVE",
+"389 385 CURVE SMOOTH",
+"389 313 LINE SMOOTH",
+"389 298 OFFCURVE",
+"397 286 OFFCURVE",
+"418 286 CURVE SMOOTH",
+"420 286 LINE SMOOTH",
+"466 286 OFFCURVE",
+"491 262 OFFCURVE",
+"491 227 CURVE SMOOTH",
+"491 191 OFFCURVE",
+"462 168 OFFCURVE",
+"424 168 CURVE",
+"422 168 LINE",
+"401 169 OFFCURVE",
+"389 156 OFFCURVE",
+"389 141 CURVE SMOOTH",
+"389 27 LINE SMOOTH",
+"389 12 OFFCURVE",
+"401 0 OFFCURVE",
+"422 0 CURVE",
+"457 0 LINE",
+"665 0 OFFCURVE",
+"761 93 OFFCURVE",
+"761 216 CURVE SMOOTH",
+"761 350 OFFCURVE",
+"684 402 OFFCURVE",
+"571 402 CURVE",
+"573 317 LINE",
+"691 492 LINE",
+"691 619 OFFCURVE",
+"584 709 OFFCURVE",
+"392 710 CURVE SMOOTH",
+"184 711 OFFCURVE",
+"99 598 OFFCURVE",
+"99 452 CURVE SMOOTH",
+"99 27 LINE SMOOTH",
+"99 12 OFFCURVE",
+"111 0 OFFCURVE",
+"126 0 CURVE SMOOTH"
+);
+}
+);
+width = 850;
+}
+);
+unicode = 1E9E;
 },
 {
 color = 4;
@@ -17623,7 +17705,26 @@ transform = "{1, 0, 0, 1, -30, 0}";
 }
 );
 };
+components = (
+{
+name = Germandbls;
+}
+);
 layerId = UUID0;
+width = 850;
+},
+{
+associatedMasterId = UUID0;
+background = {
+components = (
+{
+name = O;
+transform = "{1, 0, 0, 1, -30, 0}";
+}
+);
+};
+layerId = "7EE615D0-76EA-4A8A-843C-8781444847C6";
+name = "Jan 4 17, 10:28";
 paths = (
 {
 closed = 1;
@@ -25615,6 +25716,115 @@ unicode = 04A2;
 },
 {
 color = 4;
+glyphname = "Enghe-cy";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"386 700 LINE SMOOTH",
+"371 700 OFFCURVE",
+"359 688 OFFCURVE",
+"359 673 CURVE SMOOTH",
+"359 458 LINE",
+"233 458 LINE",
+"233 673 LINE SMOOTH",
+"233 688 OFFCURVE",
+"221 700 OFFCURVE",
+"206 700 CURVE SMOOTH",
+"60 700 LINE SMOOTH",
+"45 700 OFFCURVE",
+"33 688 OFFCURVE",
+"33 673 CURVE SMOOTH",
+"33 27 LINE SMOOTH",
+"33 11 OFFCURVE",
+"45 0 OFFCURVE",
+"60 0 CURVE SMOOTH",
+"206 0 LINE SMOOTH",
+"221 0 OFFCURVE",
+"233 12 OFFCURVE",
+"233 27 CURVE SMOOTH",
+"233 250 LINE",
+"359 250 LINE",
+"359 27 LINE SMOOTH",
+"359 12 OFFCURVE",
+"371 0 OFFCURVE",
+"386 0 CURVE SMOOTH",
+"531 0 LINE SMOOTH",
+"547 0 OFFCURVE",
+"559 12 OFFCURVE",
+"559 28 CURVE SMOOTH",
+"559 485 LINE",
+"737 485 LINE SMOOTH",
+"752 485 OFFCURVE",
+"764 497 OFFCURVE",
+"764 512 CURVE SMOOTH",
+"764 673 LINE SMOOTH",
+"764 688 OFFCURVE",
+"752 700 OFFCURVE",
+"737 700 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"426 700 LINE SMOOTH",
+"411 700 OFFCURVE",
+"399 688 OFFCURVE",
+"399 673 CURVE SMOOTH",
+"399 458 LINE",
+"273 458 LINE",
+"273 673 LINE SMOOTH",
+"273 688 OFFCURVE",
+"261 700 OFFCURVE",
+"246 700 CURVE SMOOTH",
+"100 700 LINE SMOOTH",
+"85 700 OFFCURVE",
+"73 688 OFFCURVE",
+"73 673 CURVE SMOOTH",
+"73 27 LINE SMOOTH",
+"73 11 OFFCURVE",
+"85 0 OFFCURVE",
+"100 0 CURVE SMOOTH",
+"246 0 LINE SMOOTH",
+"261 0 OFFCURVE",
+"273 12 OFFCURVE",
+"273 27 CURVE SMOOTH",
+"273 250 LINE",
+"399 250 LINE",
+"399 27 LINE SMOOTH",
+"399 12 OFFCURVE",
+"411 0 OFFCURVE",
+"426 0 CURVE SMOOTH",
+"571 0 LINE SMOOTH",
+"587 0 OFFCURVE",
+"599 12 OFFCURVE",
+"599 28 CURVE SMOOTH",
+"599 492 LINE",
+"777 492 LINE SMOOTH",
+"792 492 OFFCURVE",
+"804 504 OFFCURVE",
+"804 519 CURVE SMOOTH",
+"804 673 LINE SMOOTH",
+"804 688 OFFCURVE",
+"792 700 OFFCURVE",
+"777 700 CURVE SMOOTH"
+);
+}
+);
+width = 850;
+}
+);
+unicode = 04A4;
+},
+{
+color = 4;
 glyphname = "Pedescender-cy";
 layers = (
 {
@@ -26078,6 +26288,24 @@ width = 850;
 }
 );
 unicode = 04D2;
+},
+{
+color = 4;
+glyphname = "Aie-cy";
+layers = (
+{
+components = (
+{
+name = AE;
+}
+);
+layerId = UUID0;
+width = 850;
+}
+);
+leftMetricsKey = AE;
+rightMetricsKey = AE;
+unicode = 04D4;
 },
 {
 color = 4;
@@ -27481,6 +27709,24 @@ unicode = 04A3;
 },
 {
 color = 8;
+glyphname = "enghe-cy";
+layers = (
+{
+components = (
+{
+name = "Enghe-cy";
+}
+);
+layerId = UUID0;
+width = 850;
+}
+);
+leftMetricsKey = "en-cy";
+rightMetricsKey = "ge-cy";
+unicode = 04A5;
+},
+{
+color = 8;
 glyphname = "pedescender-cy";
 layers = (
 {
@@ -27670,6 +27916,24 @@ width = 850;
 }
 );
 unicode = 04D3;
+},
+{
+color = 8;
+glyphname = "aie-cy";
+layers = (
+{
+components = (
+{
+name = ae;
+}
+);
+layerId = UUID0;
+width = 850;
+}
+);
+leftMetricsKey = ae;
+rightMetricsKey = ae;
+unicode = 04D5;
 },
 {
 color = 8;
@@ -27926,169 +28190,6 @@ width = 850;
 }
 );
 unicode = 051D;
-},
-{
-color = 4;
-glyphname = "Enghe-cy";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"386 700 LINE SMOOTH",
-"371 700 OFFCURVE",
-"359 688 OFFCURVE",
-"359 673 CURVE SMOOTH",
-"359 458 LINE",
-"233 458 LINE",
-"233 673 LINE SMOOTH",
-"233 688 OFFCURVE",
-"221 700 OFFCURVE",
-"206 700 CURVE SMOOTH",
-"60 700 LINE SMOOTH",
-"45 700 OFFCURVE",
-"33 688 OFFCURVE",
-"33 673 CURVE SMOOTH",
-"33 27 LINE SMOOTH",
-"33 11 OFFCURVE",
-"45 0 OFFCURVE",
-"60 0 CURVE SMOOTH",
-"206 0 LINE SMOOTH",
-"221 0 OFFCURVE",
-"233 12 OFFCURVE",
-"233 27 CURVE SMOOTH",
-"233 250 LINE",
-"359 250 LINE",
-"359 27 LINE SMOOTH",
-"359 12 OFFCURVE",
-"371 0 OFFCURVE",
-"386 0 CURVE SMOOTH",
-"531 0 LINE SMOOTH",
-"547 0 OFFCURVE",
-"559 12 OFFCURVE",
-"559 28 CURVE SMOOTH",
-"559 485 LINE",
-"737 485 LINE SMOOTH",
-"752 485 OFFCURVE",
-"764 497 OFFCURVE",
-"764 512 CURVE SMOOTH",
-"764 673 LINE SMOOTH",
-"764 688 OFFCURVE",
-"752 700 OFFCURVE",
-"737 700 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"426 700 LINE SMOOTH",
-"411 700 OFFCURVE",
-"399 688 OFFCURVE",
-"399 673 CURVE SMOOTH",
-"399 458 LINE",
-"273 458 LINE",
-"273 673 LINE SMOOTH",
-"273 688 OFFCURVE",
-"261 700 OFFCURVE",
-"246 700 CURVE SMOOTH",
-"100 700 LINE SMOOTH",
-"85 700 OFFCURVE",
-"73 688 OFFCURVE",
-"73 673 CURVE SMOOTH",
-"73 27 LINE SMOOTH",
-"73 11 OFFCURVE",
-"85 0 OFFCURVE",
-"100 0 CURVE SMOOTH",
-"246 0 LINE SMOOTH",
-"261 0 OFFCURVE",
-"273 12 OFFCURVE",
-"273 27 CURVE SMOOTH",
-"273 250 LINE",
-"399 250 LINE",
-"399 27 LINE SMOOTH",
-"399 12 OFFCURVE",
-"411 0 OFFCURVE",
-"426 0 CURVE SMOOTH",
-"571 0 LINE SMOOTH",
-"587 0 OFFCURVE",
-"599 12 OFFCURVE",
-"599 28 CURVE SMOOTH",
-"599 492 LINE",
-"777 492 LINE SMOOTH",
-"792 492 OFFCURVE",
-"804 504 OFFCURVE",
-"804 519 CURVE SMOOTH",
-"804 673 LINE SMOOTH",
-"804 688 OFFCURVE",
-"792 700 OFFCURVE",
-"777 700 CURVE SMOOTH"
-);
-}
-);
-width = 850;
-}
-);
-unicode = 04A4;
-},
-{
-color = 8;
-glyphname = "enghe-cy";
-layers = (
-{
-components = (
-{
-name = "Enghe-cy";
-}
-);
-layerId = UUID0;
-width = 850;
-}
-);
-leftMetricsKey = "en-cy";
-rightMetricsKey = "ge-cy";
-unicode = 04A5;
-},
-{
-color = 4;
-glyphname = "Aie-cy";
-layers = (
-{
-components = (
-{
-name = AE;
-}
-);
-layerId = UUID0;
-width = 850;
-}
-);
-leftMetricsKey = AE;
-rightMetricsKey = AE;
-unicode = 04D4;
-},
-{
-color = 8;
-glyphname = "aie-cy";
-layers = (
-{
-components = (
-{
-name = ae;
-}
-);
-layerId = UUID0;
-width = 850;
-}
-);
-leftMetricsKey = ae;
-rightMetricsKey = ae;
-unicode = 04D5;
 },
 {
 color = 4;
@@ -37991,16 +38092,6 @@ width = 850;
 unicode = 000D;
 },
 {
-glyphname = NULL;
-layers = (
-{
-layerId = UUID0;
-width = 0;
-}
-);
-unicode = 0000;
-},
-{
 color = 4;
 glyphname = .notdef;
 layers = (
@@ -43516,6 +43607,16 @@ layerId = UUID0;
 width = 850;
 }
 );
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = UUID0;
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
@@ -43532,5 +43633,5 @@ manufacturer = "Hubert and Fischer with Elvire Volk Leonovitch";
 manufacturerURL = "http://www.google.com/fonts";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
